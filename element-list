@@ -1,0 +1,12 @@
+com.workshop.course
+com.workshop.course.config
+com.workshop.course.entities
+com.workshop.course.entities.enums
+com.workshop.course.entities.pk
+com.workshop.course.entitiesTests
+com.workshop.course.repositories
+com.workshop.course.repositoriesTests
+com.workshop.course.resources
+com.workshop.course.resources.exceptions
+com.workshop.course.services
+com.workshop.course.services.exceptions
